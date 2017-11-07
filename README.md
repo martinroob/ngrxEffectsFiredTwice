@@ -1,4 +1,5 @@
 # Sample5project
+This is just a demo for an ngrx issue https://github.com/ngrx/platform/issues/551
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
